@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 32px;
+}
+
+/* Wat extra witruimte bij de controls */
+input,
+option,
+button {
+  height: 2rem;   
+  margin-bottom: 0.25rem;
+}
+
+/* Plaats je oplossing hieronder */
+
