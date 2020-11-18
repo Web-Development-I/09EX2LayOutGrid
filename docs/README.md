@@ -33,7 +33,9 @@ Open de map **responsive-form** met startbestanden in Visual Studio Code.
 <!---
 .pdf eventueel nog verplaatsen naar de website
 -->
-De bedoeling van deze oefening is om het formulier uit onderstaande animatie te maken. De formulierontwerpen vind je in [responsive_form.pdf](assets/responsive_form.pdf) en de witruimte tussen de controls is 10px. Denk na over hoe je dit gaat aanpakken en lees daarna eventueel ook nog onderstaande tips.
+De bedoeling van deze oefening is om het formulier uit onderstaande animatie te maken. De formulierontwerpen vind je in [responsive_form.pdf](assets/responsive_form.pdf). De witruimte tussen de controls is 10px en de maximum breedte voor het formulier is 1200 pixels.
+
+Denk na over hoe je dit gaat aanpakken en lees daarna eventueel ook nog onderstaande tips.
 
 ![responsive form](images/responsive_form.gif)
 
